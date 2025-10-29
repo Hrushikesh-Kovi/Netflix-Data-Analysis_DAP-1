@@ -4,7 +4,7 @@
 This project analyzes Netflix titles data to explore what type of content is added on the platform.  
 It includes thorough data cleaning and visual analysis to uncover trends in content type, rating distribution, and global content focus.
 
-Dataset Source: Netflix Titles Dataset from Kaggle
+Dataset Source: https://www.kaggle.com/datasets
 
 ---
 
