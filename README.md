@@ -32,8 +32,6 @@ Includes:
 - Trend of content addition by year
 - Genre/category popularity
 
-📌 *Attach your visualization images here for best presentation*
-
 ---
 
 ## 🛠️ Tools Used
@@ -41,11 +39,3 @@ Includes:
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
----
-
-## 🚀 How to Run
-```bash
-git clone <your_repo_link>
-pip install -r requirements.txt
-jupyter notebook
