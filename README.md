@@ -1,5 +1,10 @@
 # 🎬 Netflix Data Cleaning & Exploratory Data Analysis
 
+## 👨‍💻 Author
+**Hrushikesh Kovi**  
+🎓 Computer Science (AI & Data Science) — Marwadi University  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hrushikesh-kovi/)
+
 ## 📌 Project Overview
 This project analyzes Netflix titles data to explore what type of content is added on the platform.  
 It includes thorough data cleaning and visual analysis to uncover trends in content type, rating distribution, and global content focus.
